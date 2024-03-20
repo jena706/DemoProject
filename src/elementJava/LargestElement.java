@@ -1,6 +1,6 @@
 package elementJava;
 
-public class Largest {
+public class LargestElement {
 
 	public static void main(String[] args) {
     int [] array = {28,90,46,22,44,12}; 

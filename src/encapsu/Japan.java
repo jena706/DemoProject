@@ -9,7 +9,7 @@ public class Japan {
 	 
  
 public String getName() {    
-	return name;      //OTHER THAN VOID RETURNTYPE THE RETURN STATEMENT WORK
+	return name;      //OTHER THAN VOID RETURNTYPE THE RETURN STATEMENT IS return
 }
 
 public static void main(String[] args) {

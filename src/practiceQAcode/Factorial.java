@@ -1,4 +1,4 @@
-package alljavaprogram;
+package practiceQAcode;
 
 public class Factorial {
 

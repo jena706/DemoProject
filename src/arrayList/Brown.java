@@ -10,6 +10,7 @@ public class Brown {
      red.add("water");  //index value 3
      red.add("flower");  //index value 4
      red.add("FRUIT");   //index value 5
+   
      
      System.out.println(red);
      System.out.println(red.size()); //number of elements in list

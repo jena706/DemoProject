@@ -7,8 +7,8 @@ public class TypeCastingDemo {
        double h=k; //upcasting
        System.out.println(h);
        double v=13.3;
-       int j=(int) v; //downcasting
+       int j= (int) v; //downcasting
        System.out.println(j);
-	}
-
+	 }
+ 
 }

@@ -1,3 +1,4 @@
+
 package hashset;
 import java.util.HashSet;;
 public class IceCream {
@@ -8,6 +9,7 @@ public class IceCream {
  m1.add(30);
  m1.add(20);
  m1.add(40);
+ m1.add(70);
  m1.add(70);
  
 System.out.println(m1);

@@ -1,6 +1,6 @@
 package elementJava;
 
-public class NEWyear {
+public class Findbignumber {
 
 	public static void main(String[] args) {
        int [] num= {43,51,21,25,99};
